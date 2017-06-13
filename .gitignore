@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Microsoft Word Tmp files
+*.tmp
+
 # =========================
 # Operating System Files
 # =========================
